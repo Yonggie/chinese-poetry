@@ -61,7 +61,7 @@
       "山不厌高，海不厌深。周公吐哺，天下归心。(海 一作：水)"
     ]
   },
-  ...
+  
 ]
 ```
 
@@ -98,7 +98,7 @@
       "思夫君兮太息，极劳心兮忡忡"
     ]
   },
-  ...
+  
 ]
 ```
 
@@ -122,7 +122,7 @@
       "子曰：“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”"
     ]
   },
-  ...
+  
 ]
 ```
 
@@ -151,7 +151,7 @@
       "言告师氏，言告言归。薄污我私，薄浣我衣。害浣害否，归宁父母。"
     ]
   },
-  ...
+  
 ]
 ```
 
@@ -195,7 +195,7 @@
 
 - 直接提交 PR 或者通过 issue 讨论来优化完善此数据库，理论上古诗歌体非宗教类都欢迎加入，部分有争议性的数据需要社区投票讨论决定是否加入。关于诗句的纠错在创建 PR 时请标明出处。更多规范请[参考贡献规范文档](https://github.com/chinese-poetry/chinese-poetry/wiki/%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE%E8%A7%84%E8%8C%83)。
 
-- 如果你没有办法直接参与完善的过程，你也可以通过 「[Patreon 周期性赞助](https://www.patreon.com/jackeygao)」的形式来持续帮助并激励我去优化完善此数据库。如果您不喜欢周期性赞助，你也可以通过「[支付宝](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/alipay.png)」或者「[微信赞赏码](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/wechat.jpg)」进行一次性赞助(备注留下邮箱)。
+- 如果你没有办法直接参与完善的过程，可以通过「[支付宝](./images/alipay.jpg)」或者「[微信赞赏码](./images/wechatpay.jpg)」进行一次性赞助(备注留下邮箱)。
 
 ## 使用此诗歌数据的机器学习案例
 
