@@ -158,44 +158,19 @@
 
 
 
+## 赞助
 
+本项目目的构建方便于机器学习使用的中文诗歌数据集，基于他人项目，站在巨人肩膀上进行工作。欢迎更多人来维护，你可以通过以下方法来参与贡献：
 
+- 直接提交 PR 或者通过 issue 讨论。
 
-
-
-
-
-
-
-
-- 全唐诗 [json](./json)
-- 全宋诗 [json](./json)
-- 全宋词 [ci](./ci)
-- 五代·花间集 [wudai/huajianji](./wudai/huajianji)
-- 五代·南唐二主词 [wudai/nantan](./wudai/nantang)
-- 论语 [lunyu](./lunyu)
-- 诗经 [shijing](./shijing)
-- 幽梦影 [youmengying](./youmengying)
-- 四书五经 [sishuwujing](./sishuwujing)
-- 蒙學 [mengxue](./mengxue)
-- 纳兰性德诗集 [nalanxingde](./nalanxingde)
-
-
-
-
-
-
-
-
-
-
-## 贡献
-
-本项目目的是借助技术来生成格式化(JSON)数据，让开发者更方便快速的构建诗词类应用程序。身单力薄，欢迎更多人来维护，你可以通过以下方法来参与贡献：
-
-- 直接提交 PR 或者通过 issue 讨论来优化完善此数据库，理论上古诗歌体非宗教类都欢迎加入，部分有争议性的数据需要社区投票讨论决定是否加入。关于诗句的纠错在创建 PR 时请标明出处。更多规范请[参考贡献规范文档](https://github.com/chinese-poetry/chinese-poetry/wiki/%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE%E8%A7%84%E8%8C%83)。
-
-- 如果你没有办法直接参与完善的过程，可以通过「[支付宝](./images/alipay.jpg)」或者「[微信赞赏码](./images/wechatpay.jpg)」进行一次性赞助(备注留下邮箱)。
+- 也可以通过「支付宝」或者「微信赞赏码」进行一次性赞助(备注留下邮箱)。
+<p align="center">
+  <a href="https://github.com/chinese-poetry/chinese-poetry">
+      <img src="./images/wechatpay.jpg" alt="chinese-poetry" height=200px>
+      <img src="./images/alipay.jpg" alt="chinese-poetry" height=200px>
+  </a>
+</p>
 
 ## 使用此诗歌数据的机器学习案例
 
