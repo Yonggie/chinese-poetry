@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 cc = opencc.OpenCC('t2s')
 
-base='quan_tang_shi/json'
+base='wudai'
 
 new_json=[]
 settled=defaultdict(bool)
@@ -24,7 +24,7 @@ for file in tqdm(os.listdir(base)):
             for k,v in data.items():
                 
 
-                if k=='volume' or k =='tags' or k=='notes' or k=='no#' or k=='biography' or k=='desc' or k=='name':
+                if k=='volume' or k =='tags' or k=='notes' or k=='no#' or k=='biography' or k=='desc' or k=='name' or k=='rhythmic':
                     pass
                 elif k=='title':
                     new_dict['title']=cc.convert(v)
@@ -43,7 +43,7 @@ for file in tqdm(os.listdir(base)):
 
 
 content=json.dumps(new_json,ensure_ascii=False,indent=2)
-with open('唐诗/data5.json','w',encoding='utf8') as f:
+with open('五代的词/data.json','w',encoding='utf8') as f:
     # json.dump(content,f,ensure_ascii=False)
     f.write(content)
 
